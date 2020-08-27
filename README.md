@@ -1,2 +1,2 @@
 # myrepo
-Example for BIO375
+Example for course
